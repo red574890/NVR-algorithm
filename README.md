@@ -4,6 +4,8 @@ A clustering algorithm that consider the size of each point
 For more backgroud and theories please check the following link
 https://ray08datascience.medium.com/rvn-algorithm-c0a7ebde7f61
 
+The sample data was randomized and did not represent any accurate floor plan, please only use it for practicing 
+
 ## Main API
 
 ### RVN_parameter_tuning(df,r_expand=1,rank_of_radius=0,print_current_group=False)
