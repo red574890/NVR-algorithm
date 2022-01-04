@@ -2,6 +2,7 @@
 A clustering algorithm that consider the size of each point
 
 For more backgroud and theories please check the following link
+https://ray08datascience.medium.com/rvn-algorithm-c0a7ebde7f61
 
 ## Main API
 
